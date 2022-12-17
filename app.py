@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 
 
 # Server
-df= pd.read_csv("boxing_data.csv")
+df= pd.read_csv("boxing_data_cleaned.csv")
 
 # UI
 st.dataframe(df)
