@@ -1,4 +1,4 @@
-,Saul Alvarez,,super middle,58 2 2,32,,"Guadalajara, Jalisco, Mexico"
+#1,Saul Alvarez,,super middle,58 2 2,32,,"Guadalajara, Jalisco, Mexico"
 #2,Tyson Fury,,heavy,33 0 1,34,,"Morecambe, Lancashire, United Kingdom"
 #3,Dmitrii Bivol,,light heavy,21 0 0,31,,"Indio, California, USA"
 #4,Terence Crawford,,welter,39 0 0,35,,"Omaha, Nebraska, USA"
@@ -282,7 +282,7 @@
 #276,Craig Richards,,light heavy,17 3 1,32,,"Crystal Palace, London, United Kingdom"
 #277,Angel Rodriguez,,super feather,20 2 0,35,,"Barranquilla, Colombia"
 #278,Ivan Golub,,welter,21 1 0,33,,"Brooklyn, New York, USA"
-#279,Eduardo Ramirez,,light,27 3 3,29,,"Los Mochis, Sinaloa, Mexico"
+#279,Eduardo Ramirez,,light,11 1 0,29,,"Los Mochis, Sinaloa, Mexico"
 #280,"Gary Antonio 
  Russell",,bantam,19 1 0,29,,"Washington, District of Columbia, USA"
 #281,Khariton Agrba,,super light,10 0 0,27,,"Volgodonsk, Russia"
@@ -304,7 +304,7 @@
 #297,Ryan Rozicki*,,cruiser,16 1 0,27,,"Sydney, Nova Scotia, Canada"
 #298,Liam Williams,,middle,24 4 1,30,,"Clydach Vale, Wales, United Kingdom"
 #299,Zolani Tete,,super bantam,30 4 0,34,,"Mdantsane, Eastern Cape, South Africa"
-#300,Taku Kuwahara,,fly,11 1 2000,27,,"Yokohama, Kanagawa, Japan"
+#300,Taku Kuwahara,,fly,11 1 0,27,,"Yokohama, Kanagawa, Japan"
 #301,Malik Hawkins,,super light,18 2 0,26,,"Baltimore, Maryland, USA"
 #302,Billy Dib,,light,48 6 0,37,,"Sydney, New South Wales, Australia"
 #303,Souleymane Cissokho*,,welter,15 0 0,31,,"Bagnolet, Seine-Saint-Denis, France"
@@ -1010,7 +1010,7 @@
  Vazquez",,super bantam,24 1 0,27,,"Mexico City, Distrito Federal, Mexico"
 #915,Jun Ikegawa,,super bantam,3 0 2,24,,"Tokyo, Japan"
 #916,Danai Ngiabphukhiaw,,light fly,14 3 0,22,,"Ang Thong, Thailand"
-#917,Khuseyn Baysangurov*,,super welter,20 1 0,28,,"Moscow, Russia"
+#917,Khuseyn Baysangurov*,,super welter,12 5 2,28,,"Moscow, Russia"
 #918,Yuki Nagano,,welter,19 4 0,33,,"Tokyo, Japan"
 #919,Jack Bateson,,super bantam,17 1 0,28,,"Leeds, Yorkshire, United Kingdom"
 #920,Joel Camilleri,,middle,25 8 1,32,,"Brisbane, Queensland, Australia"
@@ -1112,4 +1112,4 @@
 #998,Lusizo Manzana,,fly,10 1 0,25,,"East London, Eastern Cape, South Africa"
 #999,Flavius Biea,,super welter,21 1 0,33,,"Timisoara, Romania"
 #1000,"Alejandro Jair 
- Gonzalez",,bantam,12 5 2002,22,,"Mexico City, Distrito Federal, Mexico"
+ Gonzalez",,bantam,12 5 2,22,,"Mexico City, Distrito Federal, Mexico"
