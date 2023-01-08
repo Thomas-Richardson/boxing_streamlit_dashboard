@@ -1,8 +1,7 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns 
+#import seaborn as sns 
 import matplotlib.pyplot as plt
-import RichieDashboardFuncs as utils
 
 st.set_page_config(layout="wide")
 
