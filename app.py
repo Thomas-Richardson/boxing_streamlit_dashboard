@@ -46,7 +46,7 @@ col1, col2= st.columns([1,2])
 with col1:
     '## Number of top boxers by country'
     'Countries with no fighters in the top 200 were excluded.'
-    
+    ' '
     create_league_tables(df)
 
 with col2: 
