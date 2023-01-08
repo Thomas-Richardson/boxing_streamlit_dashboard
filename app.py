@@ -46,13 +46,11 @@ col1, col2= st.columns([1,2])
 with col1:
     '## Number of top boxers by country'
     'Countries with no fighters in the top 200 were excluded.'
-    ' '
     create_league_tables(df)
 
 with col2: 
     '## Where are the top fighters found?'
-    'Each fighter is a single dot placed around the centre of the country they "fight out of" '
-    '(Finer grained location WIP)'
+    'Each fighter is a single dot placed around the centre of the country they "fight out of" (Finer grained location WIP)'
     st.map(df)
 
 
